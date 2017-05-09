@@ -1,4 +1,5 @@
 # autocomplete-javascript
+*[WIP] The missing Atom autocompletion support for modern javascript*
 
 ## Proposal
 Build a robust and efficient autocomplete support for modern javascript

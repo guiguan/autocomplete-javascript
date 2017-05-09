@@ -2,8 +2,8 @@
   "name": "autocomplete-javascript",
   "main": "./lib/autocomplete-javascript",
   "version": "0.0.1",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "[WIP] The missing Atom autocompletion support for modern javascript",
+  "keywords": ["javascript", "autocomplete", "intellisense", "babel", "babylon"],
   "activationCommands": {
     "atom-workspace": "autocomplete-javascript:toggle"
   },
