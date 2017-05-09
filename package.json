@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "autocomplete-javascript:toggle"
   },
-  "repository": "https://github.com/atom/autocomplete-javascript",
+  "repository": "https://github.com/guiguan/autocomplete-javascript.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
